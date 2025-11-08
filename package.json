@@ -1,5 +1,5 @@
 {
-  "name": "client-portal",
+  "name": "fortior-client-portal",
   "private": true,
   "scripts": {
     "dev": "next dev",
